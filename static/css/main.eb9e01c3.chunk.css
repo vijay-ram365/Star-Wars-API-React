@@ -1,0 +1,2 @@
+.card{box-shadow:0 4px 8px 0 rgba(0,0,0,.2);transition:.3s;padding:1rem;border-radius:5px}.card:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,.2)}.card-grid{display:grid;grid-template-columns:repeat(3,1fr);grid-auto-rows:auto;grid-gap:1rem}.card-grid,select{margin-bottom:2rem}select{padding:10px;border:1px solid #d3d3d3;border-radius:5px}
+/*# sourceMappingURL=main.eb9e01c3.chunk.css.map */
